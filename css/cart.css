@@ -1,0 +1,16 @@
+body{
+    height:3000px;
+}
+.jumbotron{
+    background: url(../images/cartbanner.jpg) no-repeat center 20%;
+    background-size:cover;
+    height:50vh;
+}
+
+img {
+   height:200px;
+}
+
+.cart-item{
+    height:100px;
+}

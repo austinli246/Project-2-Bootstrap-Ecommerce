@@ -1,0 +1,14 @@
+
+.jumbotron{
+    background: url(../images/catalogbanner.jpeg) no-repeat center 50%;
+    background-size:cover;
+    height:70vh;
+}
+
+img {
+   height:200px;
+}
+
+.cart-item{
+    height:100px;
+}

@@ -1,0 +1,24 @@
+
+.jumbotron{
+    background: url(../images/banner.jpg) no-repeat center center;
+    background-size:cover;
+    height:70vh;
+}
+
+#about-banner{
+    background: url(../images/homepagebanner2.jpg) no-repeat center center;
+    background-size:cover;
+    height:90vh;
+}
+#product-banner{
+    background: url(../images/latest-gear.jpg) no-repeat center center;
+    background-size:cover;
+    height:90vh;
+}
+img {
+   height:200px;
+}
+
+.cart-item{
+    height:100px;
+}
